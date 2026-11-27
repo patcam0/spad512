@@ -8,7 +8,7 @@ Current functionality is:
 
 1. Connecting to the camera via the tcp port (CSPAD software should be running)
 2. Define acquisition parameters
-3. Take an aquisition
+3. Acquire some frames
 
 Currently working on: 
 
